@@ -43,11 +43,9 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em Risco Sacado (antecipação de recebíveis performados) separando o tema em capítulos, se possível com exemplos. |
 
 
-Midjourney：
 
-|  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Você poderia gerar uma imagem para ilustrar o item 1. Risco Sacado: O Guia Definitivo para Antecipação de Recebíveis sem textos? |
 
 ## ✨ Features
 
