@@ -60,13 +60,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://github.com/account"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/GabrielSSC">
     GitHub</a>&nbsp;|&nbsp;
