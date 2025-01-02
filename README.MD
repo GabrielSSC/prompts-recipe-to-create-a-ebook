@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp promovido em parceria entre a Caixa e a Dio no qual fui aluno e essa atividade foi proposta.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [GoogleSlides](https://docs.google.com/presentation/d/1Aenox-s5oPF0Cj7lv2tz9tBpZ3725kcVfEQMvzTNURY/edit#slide=id.p)
 
 ## 🧠 Prompts
 
@@ -39,8 +39,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema risco sacado, o ebook é do nicho de crédito e do subnicho de antecipação de recebíveis performados. O título deve ser épico e curto e tenha uma temática simples de entender. Limite a 5 variações de título.                                                        |
+| conteúdo | Faça um texto para ebook, com foco em Risco Sacado (antecipação de recebíveis performados) separando o tema em capítulos, se possível com exemplos. |
 
 
 Midjourney：
@@ -52,7 +52,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
