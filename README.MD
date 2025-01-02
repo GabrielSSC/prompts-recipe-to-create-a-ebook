@@ -41,10 +41,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema risco sacado, o ebook é do nicho de crédito e do subnicho de antecipação de recebíveis performados. O título deve ser épico e curto e tenha uma temática simples de entender. Limite a 5 variações de título.                                                        |
 | conteúdo | Faça um texto para ebook, com foco em Risco Sacado (antecipação de recebíveis performados) separando o tema em capítulos, se possível com exemplos. |
-
-
-
-| :----: | -------------------------------------------------------------------------------------- |
 | título | Você poderia gerar uma imagem para ilustrar o item 1. Risco Sacado: O Guia Definitivo para Antecipação de Recebíveis sem textos? |
 
 ## ✨ Features
